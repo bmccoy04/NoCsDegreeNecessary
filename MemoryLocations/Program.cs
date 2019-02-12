@@ -28,10 +28,24 @@ namespace MemoryLocations
             switch (option)
             {
                 case "1":
-                    Console.WriteLine("Value Reference method");
+                    Console.WriteLine("Stack Reference method:");
+                    var srm = new StackReferenceMethod();
+                    srm.DoStuff();
                     break;
                 case "2":
-                    Console.WriteLine("Value Reference w/ parameters.");
+                    Console.WriteLine("Stack Reference w/ parameters:");
+                    var srp = new StackReferenceParam();
+                    srp.DoStuff();
+                    break;
+                case "3":
+                    Console.WriteLine("Heap Reference method:");
+                    var hrm = new HeapReferenceMethod();
+                    hrm.DoStuff();
+                    break;
+                case "4":
+                    Console.WriteLine("Heap Reference w/ parameters:");
+                    var hrp = new HeapReferenceParam();
+                    hrp.DoStuff();
                     break;
                 default:
                     Console.WriteLine("Try again!");
