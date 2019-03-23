@@ -681,28 +681,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/bmccoy/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Bryan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bmccoy/Git/NoCsDegreeNecessary/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
+      "projectUniqueName": "c:\\Users\\Bryan\\Git\\NoCsDegreeNecessary\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
       "projectName": "FizzBuzz",
-      "projectPath": "/Users/bmccoy/Git/NoCsDegreeNecessary/FizzBuzz/FizzBuzz/FizzBuzz.csproj",
-      "packagesPath": "/Users/bmccoy/.nuget/packages/",
-      "outputPath": "/Users/bmccoy/Git/NoCsDegreeNecessary/FizzBuzz/FizzBuzz/obj/",
+      "projectPath": "c:\\Users\\Bryan\\Git\\NoCsDegreeNecessary\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "packagesPath": "C:\\Users\\Bryan\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Bryan\\Git\\NoCsDegreeNecessary\\FizzBuzz\\FizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/bmccoy/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
