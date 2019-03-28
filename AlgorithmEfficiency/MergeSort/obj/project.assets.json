@@ -681,30 +681,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bryan\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/bmccoy/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bryan\\Git\\NoCsDegreeNecessary\\AlgorithmEfficiency\\MergeSort\\MergeSort.csproj",
+      "projectUniqueName": "/Users/bmccoy/Git/NoCsDegreeNecessary/AlgorithmEfficiency/MergeSort/MergeSort.csproj",
       "projectName": "MergeSort",
-      "projectPath": "C:\\Users\\Bryan\\Git\\NoCsDegreeNecessary\\AlgorithmEfficiency\\MergeSort\\MergeSort.csproj",
-      "packagesPath": "C:\\Users\\Bryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bryan\\Git\\NoCsDegreeNecessary\\AlgorithmEfficiency\\MergeSort\\obj\\",
+      "projectPath": "/Users/bmccoy/Git/NoCsDegreeNecessary/AlgorithmEfficiency/MergeSort/MergeSort.csproj",
+      "packagesPath": "/Users/bmccoy/.nuget/packages/",
+      "outputPath": "/Users/bmccoy/Git/NoCsDegreeNecessary/AlgorithmEfficiency/MergeSort/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/bmccoy/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

@@ -681,30 +681,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bryan\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/bmccoy/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bryan\\Git\\NoCsDegreeNecessary\\AlgorithmEfficiency\\FibonacciRecursive\\FibonacciRecursive.csproj",
+      "projectUniqueName": "/Users/bmccoy/Git/NoCsDegreeNecessary/AlgorithmEfficiency/FibonacciRecursive/FibonacciRecursive.csproj",
       "projectName": "FibonacciRecursive",
-      "projectPath": "C:\\Users\\Bryan\\Git\\NoCsDegreeNecessary\\AlgorithmEfficiency\\FibonacciRecursive\\FibonacciRecursive.csproj",
-      "packagesPath": "C:\\Users\\Bryan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bryan\\Git\\NoCsDegreeNecessary\\AlgorithmEfficiency\\FibonacciRecursive\\obj\\",
+      "projectPath": "/Users/bmccoy/Git/NoCsDegreeNecessary/AlgorithmEfficiency/FibonacciRecursive/FibonacciRecursive.csproj",
+      "packagesPath": "/Users/bmccoy/.nuget/packages/",
+      "outputPath": "/Users/bmccoy/Git/NoCsDegreeNecessary/AlgorithmEfficiency/FibonacciRecursive/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bryan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/bmccoy/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
